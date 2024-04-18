@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 Recent Software Engineer in Collective Minds Gaming 
 
-🎓 Graduated in Mechatronics/Robotics Engineer from University of British Columbia.
-
 🔭 Currently developing softwares on different languages in Gaming Industry
+
+⚡ Winner hacker in Sick Solution 2023
+
+🎓 Graduated in Mechatronics/Robotics Engineer from University of British Columbia, class of 2020.
 
 👯 Open to collaborate on coding ideas
 
@@ -45,8 +47,12 @@ Recent Software Engineer in Collective Minds Gaming
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
 
-<div style="margin-top: auto;"></div>
 
-<div style="float: right; text-align: right; margin-top: 2em;">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views" alt="Profile Views">
-</div>
+<table>
+    <tr>
+        <td style="width: 80%;"></td>
+        <td>
+            ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
+        </td>
+    </tr>
+</table>
