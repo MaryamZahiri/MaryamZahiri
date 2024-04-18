@@ -25,7 +25,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 👯 Open to collaborate on coding ideas
 
-## 📈 Public Github Stats
+## 📈 Github Contribution
 For Private Github Stats, you can find a detailed overview of my contributions and activity on GitHub over the past year by scrolling down to see my contributions graph below.
 
 <img align="center" src="https://github.com/MaryamZahiri/MaryamZahiri/assets/52676399/c33b217a-ea9c-4d0b-893b-7f3ffa2cefcf">
