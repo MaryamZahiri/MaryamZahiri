@@ -37,11 +37,12 @@ Recent Software Engineer in Collective Minds Gaming
 - Tools: VS Code
 - 
 ## 💼 Public Projects
-[Robot QR Code](https://github.com/MaryamZahiri/Robot-QR-code): Brief description: computer-vision-based, robot navigation control in leader-follower, virtual-tether, mobile robotics.
+[Robot QR Code](https://github.com/MaryamZahiri/Robot-QR-code): 
+Brief description: computer-vision-based, robot navigation control in leader-follower, virtual-tether, mobile robotics.
 
 ## 📫 Reach me at
 <p align="center">
-    [<img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
+    ![<img align="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
 </p>
 
  
