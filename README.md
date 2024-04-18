@@ -42,6 +42,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 Brief description: computer-vision-based, robot navigation control in leader-follower, virtual-tether, mobile robotics.
 
+##
 ## 📫 Reach me at
 
 <p align="center">
