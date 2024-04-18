@@ -47,12 +47,4 @@ Recent Software Engineer in Collective Minds Gaming
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
 
-
-<table>
-    <tr>
-        <td style="width: 80%;"></td>
-        <td>
-            ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
-        </td>
-    </tr>
-</table>
+<img align="right" width="24" height="24" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views" alt="Profile Views">
