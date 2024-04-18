@@ -25,6 +25,7 @@ Recent Software Engineer in Collective Minds Gaming
 📫 Reach me at
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/Mary-Zahiri)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
 
 ## 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=dark)
