@@ -41,6 +41,12 @@ Recent Software Engineer in Collective Minds Gaming
 ## 💼 Public Projects
 **[Project Name]([https://github.com/MaryamZahiri/](https://github.com/MaryamZahiri/Robot-QR-code))**: Brief description: computer-vision-based, robot navigation control in leader-follower, virtual-tether, mobile robotics.
 
-![Profile Views](https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
+<div Style="float: left;">
+  ![Profile Views](https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social)
+</div>
+
+<div Style="float: right;">
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
+</div>
+
