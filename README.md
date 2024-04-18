@@ -19,7 +19,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 🔭 Currently developing softwares on different languages in Gaming Industry
 
-⚡ Winner hacker in Sick Solution 2023
+⚡ Hackethon winners in Sick Solution 2023
 
 🎓 Graduated in Mechatronics/Robotics Engineer from University of British Columbia, class of 2020.
 
