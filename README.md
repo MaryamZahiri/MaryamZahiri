@@ -35,6 +35,7 @@ For Private Github Stats, you can find a detailed overview of my contributions a
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=dark)
 -->
 
+##
 ## 🚀 Skills & Technologies
 - Languages: Python, GPC, C++, C
 - Web Development: HTML, CSS, JavaScript
