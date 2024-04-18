@@ -35,7 +35,8 @@ Recent Software Engineer in Collective Minds Gaming
 - Web Development: HTML, CSS, JavaScript
 - Version Control: Git
 - Tools: VS Code
-  
+
+##
 ## 💼 Public Projects
 [Robot QR Code](https://github.com/MaryamZahiri/Robot-QR-code): 
 
