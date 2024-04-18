@@ -46,7 +46,6 @@ Recent Software Engineer in Collective Minds Gaming
   ![Profile Views](https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social)
 </div>
 
-<div Style="float: right;">
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
-</div>
-
+|                                |                            |
+|--------------------------------|----------------------------|
+|                                | ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views) |
