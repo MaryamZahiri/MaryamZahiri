@@ -27,6 +27,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 ## 📈 Public Github Stats
 For Private Github Stats, you can find a detailed overview of my contributions and activity on GitHub over the past year by scrolling down to see my contributions graph below.
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=dark)
 
 
