@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Maryam+Zahiri!👋;A+Software+Engineer;Nice+to+emeet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Maryam+Zahiri!👋;A+Software+Engineer.;An+UBC+Alumni.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
 
 <!--
 **MaryamZahiri/MaryamZahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Recent Software Engineer in Collective Minds Gaming 
+🎓 Graduated in Mechatronics/Robotics Engineer from University of British Columbia.
+🔭 Currently developing softwares on different languages in Gaming Industry
+👯 Open to collaborate on coding ideas
+📫 Reach me at
+[LinkedIn](https://www.linkedin.com/in/Mary-Zahiri)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true)
