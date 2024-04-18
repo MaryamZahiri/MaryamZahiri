@@ -43,7 +43,12 @@ Brief description: computer-vision-based, robot navigation control in leader-fol
 ## 📫 Reach me at
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
 
- 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/Mary-Zahiri"> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />
+  </a>
+</p>
+
 <!--
 ![Profile Views](https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social)
 
