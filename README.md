@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Maryam+Zahiri!👋;A+Software+Engineer.;An+UBC+Alumni.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Maryam+Zahiri!👋;A+Software+Engineer.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
 
 <!--
 **MaryamZahiri/MaryamZahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +25,22 @@ Recent Software Engineer in Collective Minds Gaming
 
 📫 Reach me at
 
-My Linkedin:     [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
 
 ## 
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=dark)
 -->
+
+## 🚀 Skills & Technologies
+- Languages: Python, GPC, C++, C
+- Web Development: HTML, CSS, JavaScript
+- Version Control: Git
+- Tools: VS Code
+- 
+## 💼 Public Projects
+**[Project Name](https://github.com/MaryamZahiri/)**: Brief description
+
+![Profile Views](https://shields.io/github/watchers/yourusername/MaryamZahiri?style=social)
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
