@@ -25,6 +25,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 👯 Open to collaborate on coding ideas
 
+##
 ## 📈 Github Contribution
 For Private Github Stats, you can find a detailed overview of my contributions and activity on GitHub over the past year by scrolling down to see my contributions graph below.
 
