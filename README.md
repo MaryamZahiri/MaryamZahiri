@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+Maryam+Zahiri!👋;A+Software+Engineer.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Maryam+Zahiri!👋;A+Software+Engineer.;Nice+to+e-meet+you.)](https://git.io/typing-svg)
 
 <!--
 **MaryamZahiri/MaryamZahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
