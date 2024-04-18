@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Recent Software Engineer in Collective Minds Gaming 
+
 🎓 Graduated in Mechatronics/Robotics Engineer from University of British Columbia.
 
 🔭 Currently developing softwares on different languages in Gaming Industry
@@ -24,7 +25,9 @@ Recent Software Engineer in Collective Minds Gaming
 
 📫 Reach me at
 
-My Linkedin: [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/Mary-Zahiri)
+My Linkedin:     [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/Mary-Zahiri)
 
 ## 
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryamZahiri&show_icons=true&count_private=true&theme=dark)
+-->
