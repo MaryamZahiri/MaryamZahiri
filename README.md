@@ -19,6 +19,8 @@ Recent Software Engineer in Collective Minds Gaming
 
 🔭 Currently developing softwares on different languages in Gaming Industry
 
+⚡ Hackathon winners in Beeloud, Awards from ICPHub, NexusGPT and Prizes from Couchbase, 2024
+
 ⚡ Hackathon winners in Sick Solution 2023
 
 🎓 Graduated in Robotics/Mechatronics Engineer from University of British Columbia, Class of 2020.
