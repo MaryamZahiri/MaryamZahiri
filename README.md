@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Recent Software Engineer in Game Industry (Collective Minds Gaming)
+Recent Software Engineer in Collective Minds Gaming
 
 🔭 Currently developing softwares on different languages in Gaming Industry
 
