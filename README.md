@@ -65,6 +65,6 @@ Brief description: computer-vision-based, robot navigation control in leader-fol
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views)
 -->
 
-<img align="left" src="https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social">
+<!-- <img align="left" src="https://shields.io/github/watchers/MaryamZahiri/MaryamZahiri?style=social"> -->
 
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MaryamZahiri&title=Profile%20Views" alt="Profile Views">
