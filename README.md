@@ -25,7 +25,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 🎓 Graduated in Robotics/Mechatronics Engineer from University of British Columbia, Class of 2020.
 
-👯 Open to collaborate on coding ideas
+👯 Open to collaborate on coding ideas.
 
 ##
 ## 📈 Github Contribution
