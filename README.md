@@ -21,7 +21,7 @@ Recent Software Engineer in Collective Minds Gaming
 
 ⚡ Hackathon winners in Beeloud, Awards from ICPHub, NexusGPT and Prizes from Couchbase and accepted in incubater program (Quantum Leap Labs of ICP Hub), 2024
 
-⚡ Hackathon winners in Sick Solution, Sick Sensor Intelligence + NTT Data, Germany, 2023
+⚡ Hackathon winners in Sick Solution, Sick Sensor Intelligence + NTT Data, Germany, 2023.
 
 🎓 Graduated in Robotics/Mechatronics Engineer from University of British Columbia, Class of 2020.
 
